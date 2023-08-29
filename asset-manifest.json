@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/worldwar0x/static/css/main.559c323c.css",
+    "main.css": "/worldwar0x/static/css/main.f9c69fc2.css",
     "main.js": "/worldwar0x/static/js/main.7445bf9c.js",
     "static/media/Gameplay.mp4": "/worldwar0x/static/media/Gameplay.557b8a06d9d17062f700.mp4",
     "static/media/image 1088.png": "/worldwar0x/static/media/image 1088.2aad5a4bf07ee9ffee34.png",
@@ -38,11 +38,11 @@
     "static/media/TransducerTest-Black.otf": "/worldwar0x/static/media/TransducerTest-Black.dac5d9f3fabbc26cd84d.otf",
     "static/media/TransducerTest-Hairline.otf": "/worldwar0x/static/media/TransducerTest-Hairline.326926026c97b933195e.otf",
     "index.html": "/worldwar0x/index.html",
-    "main.559c323c.css.map": "/worldwar0x/static/css/main.559c323c.css.map",
+    "main.f9c69fc2.css.map": "/worldwar0x/static/css/main.f9c69fc2.css.map",
     "main.7445bf9c.js.map": "/worldwar0x/static/js/main.7445bf9c.js.map"
   },
   "entrypoints": [
-    "static/css/main.559c323c.css",
+    "static/css/main.f9c69fc2.css",
     "static/js/main.7445bf9c.js"
   ]
 }
